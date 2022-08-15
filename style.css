@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+canvas {
+    width: 750px !important;
+    height: 750px !important;
+}
+
+/* button {
+    width: 200%;
+    height: 50%;
+    font-size: 250px;
+} */
